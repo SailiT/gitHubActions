@@ -1,4 +1,4 @@
-name: Simple Example
+name: Simple Exampl
 on: [pull_request]
 jobs:
   checkout:
